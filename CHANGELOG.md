@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.2] - 2023-03-29
+
 ## [0.1.1] - 2021-02-08
 ### Fixed
 - Body request types on Fullfilment Simulation endpoint
